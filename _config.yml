@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Julio"
-  avatar           : "profile.png"
+  avatar           : "profile_picture.png"
   bio              : "PhD Student, interested in Continual Learning and how we can improve what the model learn"
   location         : "Santiago, Chile"
   IALab            : "https://ialab.ing.puc.cl/"
